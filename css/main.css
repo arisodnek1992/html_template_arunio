@@ -226,6 +226,8 @@ textarea {
     padding:50px;
     padding: 50px;
     margin: 10px;
-    background:rgba(0,0,0,0.2);
+    background:url('../images/gwiazdka.png') no-repeat #ccc;
+    background-size:contain;
+    background-position:center;
         
 }
